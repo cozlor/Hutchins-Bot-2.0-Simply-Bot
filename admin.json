@@ -1,5 +1,5 @@
 {
-  "prefix": "",
+  "prefix": ".",
   "adminUIDs": [
     "100033808762431"
   ],
@@ -15,8 +15,8 @@
   "restart": true,
   "restartTime": 50,
   "loginpanel": {
-    "user": "your username on dashboard",
-    "password": "your password",
+    "user": "admin",
+    "password": "admin",
     "passcode": "passcode but is not working for now"
   }
 }
